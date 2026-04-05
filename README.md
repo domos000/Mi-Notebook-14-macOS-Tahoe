@@ -28,7 +28,7 @@ For those who can't get macOS Tahoe to work on their **Mi Notebook 14**, here is
 | USB | ✅ Yes |
 | Brightness & Volume Keys| ✅ Yes |
 | Sleep | ✅ Yes |
-| Speakers & Headphone Jack | ❌ **No** (If you have the fix, please create an issue and i'll look into it) |
+| Speakers & Headphone Jack | ❌ **No** (If you have the fix, please create a pull request and i'll look into it) |
 
 ## Troubleshooting:
 
